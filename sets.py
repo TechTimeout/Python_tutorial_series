@@ -1,7 +1,6 @@
 # A set is a collection that is unordered, heterogeneous, doesn't allow duplicates and unindexed.
 # Sets are written in curly brackets.
 
-from hashlib import new
 
 
 fruits={'apple','mango','cherry','guava','apple'}
